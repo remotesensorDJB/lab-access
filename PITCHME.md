@@ -2,7 +2,7 @@
 Helton GIS Lab: Remote Access 
 -------------------------------
 ### @fa[globe fa-5x]
-###### D.J. Biddle, GISP
+
 ###### Use the @fa[angle-down] and @fa[angle-right] arrows to navigate
 ---
 ##### VPN Connection
@@ -12,9 +12,11 @@ If this is your first time connecting to UofL’s VPN on your computer, you must
 ![VPN](images/vpn.PNG)
 +++
 Open the GlobalProtect client, and Enter 'vpn.louisville.edu' in the Portal box
+
 ![VPN Portal](images/vpn-portal.PNG)
 +++
 Log into the VPN client with your ULink credentials. 
+
 ![VPN Log in](images/vpn-login.PNG)
 +++
 Leave the VPN client open and connected throughout your session

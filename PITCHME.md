@@ -28,7 +28,7 @@ Leave the VPN client open and connected throughout your session
 ### Remote Desktop Connection
 
 +++
-We will use a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1X1Io7mqJMSW5o2-YFQ2C5RphsrJz-6mx75jz_6lCjWE/edit?usp=sharing) to track who is using a PC remotely. Pleas make sure you sign in and sign out of this spreadsheet when you use a PC remotely. 
+We will use a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1X1Io7mqJMSW5o2-YFQ2C5RphsrJz-6mx75jz_6lCjWE/edit?usp=sharing) to track who is using a PC remotely at any time. Please make sure you sign in and sign out of this spreadsheet when you use a PC remotely. 
 +++
 Select an available PC from the sign in log. Fill out the form next to the PC you select, and copy the Computer Name from the spreadsheet.
 

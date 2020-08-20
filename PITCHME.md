@@ -24,16 +24,21 @@ Leave the VPN client open and connected throughout your session
 ![VPN Connected](images/vpn-connected.PNG)
 ---
 ##### Remote Desktop Connection
+
+We will use a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1X1Io7mqJMSW5o2-YFQ2C5RphsrJz-6mx75jz_6lCjWE/edit?usp=sharing) to track who is using a PC remotely. Pleas make sure you sign in and sign out of this spreadsheet when you use a PC remotely. 
++++
+Select an available PC from the sign in log. Fill out the form next to the PC you select, and copy the Computer Name from the spreadsheet.
+
+<iframe class="stretch" data-src="https://docs.google.com/spreadsheets/d/1X1Io7mqJMSW5o2-YFQ2C5RphsrJz-6mx75jz_6lCjWE/edit?usp=sharing"></iframe>
+
++++
 Mac users: please download the [Remote Desktop app](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12) from the App Store, and then follow the directions in [this video](https://youtu.be/HpMRE2LRjlw) to set up the connection.
 +++
 Windows users: Search for "remote" in the Windows Search bar. Click on "Remote Desktop Connection" in the results. 
 
 ![RDC](images/remote-search.PNG)
 +++
-Select an available PC from the sign in log. Copy the Computer Name from the spreadsheet.
-<iframe class="stretch" data-src="https://docs.google.com/spreadsheets/d/1X1Io7mqJMSW5o2-YFQ2C5RphsrJz-6mx75jz_6lCjWE/edit?usp=sharing"></iframe>
 
-+++
 Type the computer name in the Computer box.
 
 ![RDC PC Name](images/rdc-pc.PNG)

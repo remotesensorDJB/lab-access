@@ -12,7 +12,7 @@ If this is your first time connecting to UofL’s VPN on your computer, you must
 +++
 ![VPN](images/vpn.PNG)
 +++
-Open the GlobalProtect client, and Enter 'vpn.louisville.edu' in the Portal box
+After installation is complete, open the GlobalProtect client, and Enter 'vpn.louisville.edu' in the Portal box
 
 ![VPN Portal](images/vpn-portal.PNG)
 +++

@@ -12,31 +12,31 @@ If this is your first time connecting to UofL’s VPN on your computer, you must
 ![VPN](images/vpn.PNG)
 +++
 Open the GlobalProtect client, and Enter 'vpn.louisville.edu' in the Portal box
-![VPN Portal](images\vpn-portal.PNG)
+![VPN Portal](images/vpn-portal.PNG)
 +++
 Log into the VPN client with your ULink credentials. 
-![VPN Log in](images\vpn-login.PNG)
+![VPN Log in](images/vpn-login.PNG)
 +++
 Leave the VPN client open and connected throughout your session
-![VPN Connected](images\vpn-connected.PNG)
+![VPN Connected](images/vpn-connected.PNG)
 ---
 ##### Remote Desktop Connection
 Mac users: please download the [Remote Desktop app](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12) from the App Store, and then follow the directions in [this video](https://youtu.be/HpMRE2LRjlw) to set up the connection.
 +++
 Windows users: Search for "remote" in the Windows Search bar. Click on "Remote Desktop Connection" in the results. 
-![RDC](images\remote-search.PNG)
+![RDC](images/remote-search.PNG)
 +++
 Type the computer name in the Computer box.
-![RDC PC Name](images\rdc-pc.PNG)
+![RDC PC Name](images/rdc-pc.PNG)
 +++
  In the “Enter your credentials” window, click **More choices**, and then **Use a different account**.
-![Credentials](images\credentials.PNG)
+![Credentials](images/credentials.PNG)
 +++
 In the User name box that appears, type “ad\” followed by your Ulink user ID. Enter your password in the Password box. Check the Remember me box to save your credentials for future sessions. Click OK to continue. 
-![Enter credentials](images\enter-creds.PNG)
+![Enter credentials](images/enter-creds.PNG)
 +++
 You should now be greeted with a Windows desktop for your assigned lab machine. You can tell that this is a remote connection because of the blue menu bar at the top of the screen. 
-![Remote-Desktop](images\desktop.PNG)
+![Remote-Desktop](images/desktop.PNG)
 +++
  You may now use the remote PC for your classwork. Here are a few tips to ensure a good experience.
 

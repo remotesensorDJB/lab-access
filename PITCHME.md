@@ -5,8 +5,9 @@ Helton GIS Lab: Remote Access
 
 ###### Use the @fa[angle-down] and @fa[angle-right] arrows to navigate
 ---
-##### VPN Connection
-Part 1: VPN Connection
+
+### VPN Connection
++++
 If this is your first time connecting to UofL’s VPN on your computer, you must visit https://vpn.louisville.edu, login using your ULINK credentials, and then download and install the VPN client for your operating system.
 +++
 ![VPN](images/vpn.PNG)
@@ -23,8 +24,10 @@ Leave the VPN client open and connected throughout your session
 
 ![VPN Connected](images/vpn-connected.PNG)
 ---
-##### Remote Desktop Connection
 
+### Remote Desktop Connection
+
++++
 We will use a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1X1Io7mqJMSW5o2-YFQ2C5RphsrJz-6mx75jz_6lCjWE/edit?usp=sharing) to track who is using a PC remotely. Pleas make sure you sign in and sign out of this spreadsheet when you use a PC remotely. 
 +++
 Select an available PC from the sign in log. Fill out the form next to the PC you select, and copy the Computer Name from the spreadsheet.
@@ -55,6 +58,17 @@ You should now be greeted with a Windows desktop for your assigned lab machine. 
 
 ![Remote-Desktop](images/desktop.PNG)
 +++
+ You may now use the remote PC for your classwork. Here are a few tips to ensure a good experience.
+
+- USB devices plugged into your physical machine will not register on the remote PC. 
+- The easiest way to move data back & forth is through cloud storage like Cardbox or Google Drive.
++++
+- Your instructor may post datasets to Blackboard. In this case, open your Blackboard course in a web browser on the remote PC and download those datasets to the remote PC, not to the physical machine you are connecting from. Your remote PC is on UofL’s gigabit network, so downloads should be very speedy. 
+- You may create a folder on the C:\ drive in which to store your work. 
+    - Name it as follows: userID-CourseNumber. For instance, Jon Snow (the [physician](https://www.arcgis.com/apps/MapJournal/index.html?appid=781630562fea4ad88e94bd22e161ba06&webmap=f4d1c17a8f1544c8903060a1e329103a), not the [true heir to the Iron Throne](https://www.insider.com/game-of-thrones-jon-snow-rightful-heir-iron-throne-targaryen-succession-2017-8)), taking Geography 500, would name his folder j0snow01-GEOG500.  
+---
+### Getting "Bumped"
++++
 If you receive this screen, it means someone is already connected to the PC you chose. If you select yes, that user has 30 seconds to deny your log in.
 
 ![Disconnect](images/disconnect.PNG)
@@ -71,17 +85,12 @@ Alternately, if you are logged in and receive this message, someone else is tryi
 
 ![Allow](images/allow.PNG)
 +++
+Please note that being "bumped" does not shut down your programs and files. Your session will be preserved. 
 
- You may now use the remote PC for your classwork. Here are a few tips to ensure a good experience.
+###### If we all use the Google Spreadsheet, we should not encounter too many issues. 
 
-- USB devices plugged into your physical machine will not register on the remote PC. 
-- The easiest way to move data back & forth is through cloud storage like Cardbox or Google Drive.
-+++
-- Your instructor may post datasets to Blackboard. In this case, open your Blackboard course in a web browser on the remote PC and download those datasets to the remote PC, not to the physical machine you are connecting from. Your remote PC is on UofL’s gigabit network, so downloads should be very speedy. 
-- You may create a folder on the C:\ drive in which to store your work. 
-    - Name it as follows: userID-CourseNumber. For instance, Jon Snow (the [physician](https://www.arcgis.com/apps/MapJournal/index.html?appid=781630562fea4ad88e94bd22e161ba06&webmap=f4d1c17a8f1544c8903060a1e329103a), not the [true heir to the Iron Throne](https://www.insider.com/game-of-thrones-jon-snow-rightful-heir-iron-throne-targaryen-succession-2017-8)), taking Geography 500, would name his folder j0snow01-GEOG500.  
-+++
-##### THE MOST IMPORTANT THING!!
+---
+### THE MOST IMPORTANT THING!!
 
 The **MOST IMPORTANT THING** that you MUST remember each time you use a remote PC, is to LOG OFF the machine when you are finished. 
 

@@ -30,6 +30,10 @@ Windows users: Search for "remote" in the Windows Search bar. Click on "Remote D
 
 ![RDC](images/remote-search.PNG)
 +++
+Select an available PC from the sign in log. Copy the Computer Name from the spreadsheet.
+<iframe class="stretch" data-src="https://docs.google.com/spreadsheets/d/1X1Io7mqJMSW5o2-YFQ2C5RphsrJz-6mx75jz_6lCjWE/edit?usp=sharing"></iframe>
+
++++
 Type the computer name in the Computer box.
 
 ![RDC PC Name](images/rdc-pc.PNG)
@@ -50,6 +54,7 @@ You should now be greeted with a Windows desktop for your assigned lab machine. 
 
 - USB devices plugged into your physical machine will not register on the remote PC. 
 - The easiest way to move data back & forth is through cloud storage like Cardbox or Google Drive.
++++
 - Your instructor may post datasets to Blackboard. In this case, open your Blackboard course in a web browser on the remote PC and download those datasets to the remote PC, not to the physical machine you are connecting from. Your remote PC is on UofL’s gigabit network, so downloads should be very speedy. 
 - You may create a folder on the C:\ drive in which to store your work. 
     - Name it as follows: userID-CourseNumber. For instance, Jon Snow (the [physician](https://www.arcgis.com/apps/MapJournal/index.html?appid=781630562fea4ad88e94bd22e161ba06&webmap=f4d1c17a8f1544c8903060a1e329103a), not the [true heir to the Iron Throne](https://www.insider.com/game-of-thrones-jon-snow-rightful-heir-iron-throne-targaryen-succession-2017-8)), taking Geography 500, would name his folder j0snow01-GEOG500.  

@@ -8,4 +8,6 @@ Helton GIS Lab: Remote Access
 ##### VPN Connection
 Part 1: VPN Connection
 If this is your first time connecting to UofL’s VPN on your computer, you must visit https://vpn.louisville.edu, login using your ULINK credentials, and then download and install the VPN client for your operating system.
++++
+![VPN](images/vpn.png)
 ---

@@ -3,7 +3,7 @@ Helton GIS Lab: Remote Access
 -------------------------------
 ### @fa[globe fa-5x]
 
-###### Use the @fa[angle-down] and @fa[angle-right] arrows to navigate
+###### Use the space bar to advance the slides
 ---
 
 ### VPN Connection

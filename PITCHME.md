@@ -55,13 +55,21 @@ You should now be greeted with a Windows desktop for your assigned lab machine. 
 
 ![Remote-Desktop](images/desktop.PNG)
 +++
-If you receive this screen, it means someone is already connected to the PC you chose. That user has 30 seconds to deny your log in.
+If you receive this screen, it means someone is already connected to the PC you chose. If you select yes, that user has 30 seconds to deny your log in.
 
 ![Disconnect](images/disconnect.PNG)
 +++
 You will see this screen while you wait for the user to respond...
 
 ![Respond](images/respond.PNG)
++++
+If you see this screen, the user has denied your log in. Please go back to the spreadsheet and choose another PC. 
+
+![Denied](images/denied.PNG)
++++
+Alternately, if you are logged in and receive this message, someone else is trying to "bump" you. You have 30 seconds to respond "cancel" to deny their log in. 
+
+![Allow](images/allow.PNG)
 +++
 
  You may now use the remote PC for your classwork. Here are a few tips to ensure a good experience.
